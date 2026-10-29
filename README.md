@@ -21,6 +21,8 @@
 
 ## 🛠️ Tech Stack
 
+<img src="https://i.postimg.cc/D0cH8wwS/5f87b1af5ca411488bf651669660d223-removebg-preview.png" width="300" align="left"/>
+
 ### Frontend & Core
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,materialui,html,css" />
@@ -40,6 +42,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,postman,git" />
 </p>
+
+<br clear="left"/>
 
 
 ---
@@ -62,6 +66,12 @@
 <p align="center">
   <a href="https://github.com/duypp2509/figma-plugin">
     <img src="https://myprofilestat.vercel.app/api/pin/?username=duypp2509&repo=figma-plugin&theme=radical&hide_border=true" alt="Figma Plugin" />
+  </a>
+  <a href="https://github.com/duypham-dev/book-recommendation-system-backend">
+    <img src="https://myprofilestat.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-system-backend&theme=radical&hide_border=true" alt="Book Recommendation System Backend" />
+  </a>
+  <a href="https://github.com/duypham-dev/book-recommendation-frontend">
+    <img src="https://myprofilestat.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-frontend&theme=radical&hide_border=true" alt="Book Recommendation Frontend" />
   </a>
 </p>
 
