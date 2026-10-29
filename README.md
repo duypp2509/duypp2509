@@ -1,21 +1,19 @@
 <h1 align="center">Hi, I'm Pham Phuc Duy 👋</h1>
-<h3 align="center">Final-year Information Technology Student at PTIT | Frontend & Fullstack Developer</h3>
+<h3 align="center">SuperDev @ SuperTek Technology Center · SuperShip</h3>
 
 <p align="center">
-  Passionate about building scalable, user-centric web applications with modern JavaScript and TypeScript ecosystems.
+  <a href="https://www.linkedin.com/in/phamphucduy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/duyy.me/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- I’m a **4th-year Information Technology student** at  
-  **Posts and Telecommunications Institute of Technology (PTIT), Vietnam**
-- Currently focusing on: **TypeScript, JavaScript, ReactJS**
-- Currently learning: **Modern web architecture, backend integrations, and cloud-ready development**
-- Strength: Bridging clean frontend engineering with robust backend systems
-- 📫 Contact: <a href="https://www.facebook.com/duyy.me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/duyy.me/" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/phamphucduy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/phamphucduy/" height="30" width="40" /></a>
+- 🚚 **SuperDev** at **Trung tâm công nghệ SuperTek** (SuperTek Technology Center), **SuperShip**
+- 💻 Focus: frontend engineering with **TypeScript** and **React**
+- 🎨 Interested in design systems, design-to-code workflows and Figma tooling
+- 🎓 Information Technology, **Posts and Telecommunications Institute of Technology (PTIT)**
 
 ---
 
@@ -23,28 +21,33 @@
 
 <img src="https://i.postimg.cc/D0cH8wwS/5f87b1af5ca411488bf651669660d223-removebg-preview.png" width="300" align="left" hspace="20"/>
 
-### Frontend & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,materialui,html,css" />
+<p><b>Frontend & Core</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,materialui,html,css" height="40" />
 </p>
 
-### Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,prisma" />
+<p><b>Backend & APIs</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,prisma" height="40" />
 </p>
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase" />
+<p><b>Database</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase" height="40" />
 </p>
 
-### DevOps, Cloud & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,postman,git" />
+<p><b>DevOps, Cloud & Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,postman,git" height="40" />
 </p>
 
 <br clear="left"/>
 
+---
+
+## 📌 Featured Project
+
+<p align="center">
+  <a href="https://github.com/duypp2509/figma-plugin">
+    <img src="https://myprofilestat.vercel.app/api/pin/?username=duypp2509&repo=figma-plugin&theme=radical&hide_border=true" alt="Figma Plugin" />
+  </a>
+</p>
 
 ---
 
@@ -58,25 +61,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duypp2509&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-## 📌 Featured Project
-
-<p align="center">
-  <a href="https://github.com/duypp2509/figma-plugin">
-    <img src="https://myprofilestat.vercel.app/api/pin/?username=duypp2509&repo=figma-plugin&theme=radical&hide_border=true" alt="Figma Plugin" />
-  </a>
-  <a href="https://github.com/duypham-dev/book-recommendation-system-backend">
-    <img src="https://myprofilestat.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-system-backend&theme=radical&hide_border=true" alt="Book Recommendation System Backend" />
-  </a>
-  <a href="https://github.com/duypham-dev/book-recommendation-frontend">
-    <img src="https://myprofilestat.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-frontend&theme=radical&hide_border=true" alt="Book Recommendation Frontend" />
-  </a>
-</p>
-
----
-
-## 🤝 Career Goal
-
-I aim to become a professional **Frontend/Fullstack Engineer**, delivering high-quality products that combine performance, maintainability, and excellent user experience.
