@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚚 **SuperDev** at **Trung tâm công nghệ SuperTek** (SuperTek Technology Center), **SuperShip**
+- 🚚 **SuperDev** at **SuperTek Technology Center**, **SuperShip**
 - 💻 Focus: frontend engineering with **TypeScript** and **React**
 - 🎨 Interested in design systems, design-to-code workflows and Figma tooling
 - 🎓 Information Technology, **Posts and Telecommunications Institute of Technology (PTIT)**
