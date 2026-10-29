@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://i.postimg.cc/D0cH8wwS/5f87b1af5ca411488bf651669660d223-removebg-preview.png" width="300" align="left"/>
+<img src="https://i.postimg.cc/D0cH8wwS/5f87b1af5ca411488bf651669660d223-removebg-preview.png" width="300" align="left" hspace="20"/>
 
 ### Frontend & Core
 <p>
