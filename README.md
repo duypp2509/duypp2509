@@ -63,12 +63,6 @@
   <a href="https://github.com/duypp2509/figma-plugin">
     <img src="https://myprofilestat.vercel.app/api/pin/?username=duypp2509&repo=figma-plugin&theme=radical&hide_border=true" alt="Figma Plugin" />
   </a>
-  <a href="https://github.com/duypham-dev/book-recommendation-system-backend">
-    <img src="https://myprofilestat.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-system-backend&theme=radical&hide_border=true" alt="Book Recommendation System Backend" />
-  </a>
-  <a href="https://github.com/duypham-dev/book-recommendation-frontend">
-    <img src="https://myprofilestat.vercel.app/api/pin/?username=duypham-dev&repo=book-recommendation-frontend&theme=radical&hide_border=true" alt="Book Recommendation Frontend" />
-  </a>
 </p>
 
 ---
